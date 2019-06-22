@@ -9,7 +9,7 @@ Data Control Language (DCL)\
 Data administration commands\
 Transactional control commands
 
-3. What are the four transactional control commands?\
+3. What are the four transactional control commands?
 
 COMMIT\
 ROLLBACK\
