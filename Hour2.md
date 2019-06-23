@@ -2,6 +2,8 @@ Quiz
 1. True or false: An individual’s Social Security number, entered in the
 format ’111111111’, can be any of the following data types: constantlength character, varying-length character, or numeric.
 
+true
+
 2. True or false: The scale of a numeric value is the total length allowed
 for values.
 
